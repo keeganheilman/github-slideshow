@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Empty space may not be waste"
 Use the left arrow to go back!
